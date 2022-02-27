@@ -13,9 +13,6 @@
 ---
 🗂 NodeModules:
 ```
-client
-```
-```
 cd clone_spotify/client
 
 npm i axios
@@ -27,9 +24,6 @@ npm i react-scripts
 npm i react-spotify-web-playback
 npm i spotify-web-api-node
 npm i web-vitals
-```
-```
-server
 ```
 ```
 cd clone_spotify/server
