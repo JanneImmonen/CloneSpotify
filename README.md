@@ -12,6 +12,7 @@
 cd clone_spotify/client
 npm start
 ```
+```
 cd clone_spotify/server
 npm run devStart
 ```
